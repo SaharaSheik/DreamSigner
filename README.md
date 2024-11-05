@@ -1,9 +1,14 @@
->📋  A template README.md for code accompanying a Machine Learning paper
+>📋  README.md for code accompanying a Machine Learning paper
 
 # My Paper Title
 
 This repository is the official implementation of [DreamSigner Pose-to-Video Synthesis for
 Hyper-Realistic Sign Language Animation].
+
+## Video demos:
+
+[![Watch the video](https://img.youtube.com/vi/Yfax9UKug20/0.jpg)](https://www.youtube.com/watch?v=Yfax9UKug20)
+
 
 
 ## Requirements
@@ -104,3 +109,5 @@ Our model achieves the following performance on :
 ## Acknowledgements
 
 >📋  We first thank the authors of AnimateAnyone. Additionally, we would like to thank the contributors to the majic-animate, animatediff and Open-AnimateAnyone repositories, OpenPose for their open research and exploration. Furthermore, our repo incorporates some codes from dwpose and animatediff-cli-prompt-travel, and we extend our thanks to them as well.
+
+
